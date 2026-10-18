@@ -1,0 +1,10 @@
+{
+  "description": "Empowers student teams to transform ideas into real startups by providing mentorship, funding, and equity sharing, fostering innovation and growth.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
